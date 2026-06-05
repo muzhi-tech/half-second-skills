@@ -110,9 +110,6 @@ cp half-second-skills/openclaw/SKILL.md \
 
 - 方法论全部来自李笑来《半秒》(2026)。本仓库是对其方法的**结构化提炼
   与工具化**,所有引述均忠于原著,不编造框架、数字或案例。
-- **与 NVC(非暴力沟通)无关**——本 skill 关注的是"自己装自己的第一反应",
-  不是"与他人沟通的话术"。如需沟通侧工具,请另寻其他资源(如
-  [ayi-nonviolent-communication](https://github.com/ayi-ai/ayi-nonviolent-communication))。
 - **临床边界**——创伤/成瘾/精神危机一律转介专业,不在本 skill 能力范围。
 - 想深入,请支持购买正版原书。
 
