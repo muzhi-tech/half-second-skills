@@ -1,0 +1,21 @@
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editors
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+# Node / build artifacts (none expected, defensive)
+node_modules/
+dist/
+build/
+
+# Local-only skill overrides
+.cursor/
+.claude/
+.openclaw/
